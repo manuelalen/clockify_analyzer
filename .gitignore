@@ -1,0 +1,7 @@
+# Ignorar archivos sensibles y temporales
+.env
+clockify.xlsx
+
+# Ignorar archivos de sistema de Windows/macOS
+.DS_Store
+Thumbs.db
