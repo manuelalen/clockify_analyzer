@@ -39,7 +39,11 @@ DB_PASSWORD=tu_contraseña
 DB_NAME=clockify_data
 ```
 
-#### 4️⃣ **Ejecutar la aplicación**
+#### 4️⃣ **Inserts de los datos en tu MySQL**
+Deberás usar el script dentro de la carpeta `mysql` para crear la tabla e insertarle datos necesarios
+
+
+#### 5 **Ejecutar la aplicación**
 ```sh
 python clockify_analyzer.py
 ```
